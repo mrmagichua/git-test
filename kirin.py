@@ -5,6 +5,7 @@ app = flask.Flask(__name__) #初始化app对象，当前模块名称name
 @app.route("/hello")#告诉服务器你的url地址
 def hello():
     return "hello flask"
+    #git2
 
 
 
