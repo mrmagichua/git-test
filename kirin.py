@@ -11,6 +11,7 @@ def hello():
     #git5 - hotfix
     #git5 - master
     #git6 - push + ssh push
+    #git7 - pull test
 
 
 
