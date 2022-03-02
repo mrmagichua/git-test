@@ -10,7 +10,7 @@ def hello():
     #git4
     #git5 - hotfix
     #git5 - master
-    #git6 - push
+    #git6 - push + ssh push
 
 
 
